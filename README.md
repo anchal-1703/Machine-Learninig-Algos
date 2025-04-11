@@ -54,7 +54,26 @@ Machine-Learninig-Tutorial/
     └── ML-architecture.png
 
 
-<pre> ``` Machine-Learninig-Tutorial/ │ ├── README.md ├── requirements.txt │ ├── Supervised-Learning/ │ ├── README.md │ ├── Regression/ │ │ ├── LinearRegression.ipynb │ │ ├── PolynomialRegression.ipynb │ │ └── ... │ └── Classification/ │ ├── LogisticRegression.ipynb │ ├── DecisionTreeClassifier.ipynb │ └── ... │ ├── Unsupervised-Learning/ │ ├── README.md │ ├── Clustering/ │ │ ├── KMeans.ipynb │ │ └── ... │ └── Dimensionality-Reduction/ │ ├── PCA.ipynb │ └── t-SNE.ipynb │ └── Images/ └── ML-architecture.png ``` </pre>
+ ``` MMachine-Learninig-Tutorial/
+├── README.md
+├── requirements.txt
+├── Supervised-Learning/
+│   ├── README.md
+│   ├── Regression/
+│   │   ├── LinearRegression.ipynb
+│   │   └── PolynomialRegression.ipynb
+│   └── Classification/
+│       ├── LogisticRegression.ipynb
+│       └── DecisionTreeClassifier.ipynb
+├── Unsupervised-Learning/
+│   ├── README.md
+│   ├── Clustering/
+│   │   └── KMeans.ipynb
+│   └── Dimensionality-Reduction/
+│       └── PCA.ipynb
+└── Images/
+    └── ML-architecture.png
+ ``` 
 
 ---
 
