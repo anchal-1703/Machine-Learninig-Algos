@@ -54,14 +54,8 @@ Classification is used when the target variable is **categorical** (e.g., spam/h
 
 ---
 
-## 📌 Folder Structure
 
-```
-Supervised-Learning/ ├── Regression/ │ ├── LinearRegression.ipynb │ ├── PolynomialRegression.ipynb │ ├── RidgeRegression.ipynb │ └── SVR.ipynb ├── Classification/ │ ├── LogisticRegression.ipynb │ ├── KNN.ipynb │ ├── DecisionTree.ipynb │ ├── RandomForest.ipynb │ ├── SVM.ipynb │ └── NaiveBayes.ipynb └── README.md
 
-```
-
----
 
 ## 🧪 What's Inside Each Notebook?
 

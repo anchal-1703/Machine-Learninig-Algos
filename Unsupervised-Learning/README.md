@@ -58,11 +58,7 @@ Each notebook in this folder:
 - Visualizes the results with libraries like `matplotlib`, `seaborn`, or `plotly`.
 - Analyzes strengths and limitations of the method.
 
-📁 Folder Structure:
-```
-Unsupervised-Learning/ ├── Clustering/ │ ├── KMeans.ipynb │ ├── HierarchicalClustering.ipynb │ └── DBSCAN.ipynb ├── Dimensionality-Reduction/ │ ├── PCA.ipynb │ ├── tSNE.ipynb │ └── Autoencoder.ipynb └── README.md
 
-```
 
 ---
 
