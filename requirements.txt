@@ -1,0 +1,18 @@
+# Core Python Libraries
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+notebook
+ipython
+
+# Optional (for clustering visualization, dimensionality reduction, etc.)
+scipy
+plotly
