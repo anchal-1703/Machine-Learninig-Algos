@@ -16,7 +16,7 @@ Machine Learning (ML) is a subfield of Artificial Intelligence (AI) that enables
 
 ## 🗂️ Repository Structure
 
-Machine-Learninig-Tutorial/
+``` Machine-Learninig-Tutorial/
 │
 ├── README.md                        # Main description of the repository
 ├── requirements.txt                 # List of Python libraries used 
@@ -52,28 +52,8 @@ Machine-Learninig-Tutorial/
 │
 └── Images/                         # (Optional) Images used in README files
     └── ML-architecture.png
-
-
- ``` MMachine-Learninig-Tutorial/
-├── README.md
-├── requirements.txt
-├── Supervised-Learning/
-│   ├── README.md
-│   ├── Regression/
-│   │   ├── LinearRegression.ipynb
-│   │   └── PolynomialRegression.ipynb
-│   └── Classification/
-│       ├── LogisticRegression.ipynb
-│       └── DecisionTreeClassifier.ipynb
-├── Unsupervised-Learning/
-│   ├── README.md
-│   ├── Clustering/
-│   │   └── KMeans.ipynb
-│   └── Dimensionality-Reduction/
-│       └── PCA.ipynb
-└── Images/
-    └── ML-architecture.png
  ``` 
+
 
 ---
 
